@@ -20,9 +20,9 @@ def get_model( model_name):
         return get_randomForest()
 
 
-def get_lin_reg():
-    lin_reg_model = LinearRegression()
-    return lin_reg_model
+#def get_lin_reg():
+    #lin_reg_model = LinearRegression()
+    #return lin_reg_model
 
 
 def get_knn():
